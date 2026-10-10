@@ -14,8 +14,6 @@ http://181.224.255.210:8001/play/a0ew/index.m3u8?hls
 #EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="General",El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 group-title="General",National Geographic
-http://181.119.185.32:8000/play/a014/index.m3u8?hls
-#EXTINF:-1 group-title="General",Nat Geo
 http://181.224.200.5:2277/play/a012/index.m3u8
 #EXTINF:-1 group-title="General",History Channel
 http://181.224.200.5:2277/play/a02b/index.m3u8
@@ -33,8 +31,6 @@ http://181.224.200.5:2277/play/a0dm/index.m3u8
 http://181.224.200.5:2277/play/a0bm/index.m3u8
 #EXTINF:-1 group-title="General",Cartoon Network
 http://138.59.227.20:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="General",Xtrema Cartoons
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-id="LosSimpson@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_logo_simpsons_yellow.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="General",Los Simpson
 http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8
 #EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" group-title="General",Bob Esponja
