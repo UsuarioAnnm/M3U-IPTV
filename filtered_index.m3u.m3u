@@ -2,16 +2,120 @@
 #EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
 http://38.44.109.41:8003/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7
-#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7 (1080p)
+http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="General",Canal 5
 http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="General",Distrito Comedia
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 group-title="General",Comedy Central
+http://181.224.255.210:8001/play/a0ew/index.m3u8?hls
 #EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="General",El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="General",DSports
-#EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DSports (1080p)
-#EXTINF:-1 tvg-id="LosSimpson@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_logo_simpsons_yellow.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",Los Simpson
+#EXTINF:-1 group-title="General",National Geographic
+http://181.119.185.32:8000/play/a014/index.m3u8?hls
+#EXTINF:-1 group-title="General",Nat Geo
+http://181.224.200.5:2277/play/a012/index.m3u8
+#EXTINF:-1 group-title="General",History Channel
+http://181.224.200.5:2277/play/a02b/index.m3u8
+#EXTINF:-1 group-title="General",History 2
+http://181.224.200.5:2277/play/a01b/index.m3u8
+#EXTINF:-1 group-title="General",Animal Planet
+http://181.224.200.5:2277/play/a00r/index.m3u8
+#EXTINF:-1 group-title="General",Discovery Channel
+http://181.224.200.5:2277/play/a00t/index.m3u8
+#EXTINF:-1 group-title="General",Disney Channel
+http://45.185.163.75:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="General",Disney Jr
+http://181.224.200.5:2277/play/a0dm/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@North" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="General",Nickelodeon
+http://181.224.200.5:2277/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="General",Cartoon Network
+http://138.59.227.20:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="General",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="LosSimpson@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_logo_simpsons_yellow.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="General",Los Simpson
 http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8
+#EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" group-title="General",Bob Esponja
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="General",Mr Bean Animated
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:-1 group-title="General",Golden
+http://181.224.200.5:2277/play/a0do/index.m3u8
+#EXTINF:-1 group-title="General",Golden Edge
+http://181.224.200.5:2277/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="General",Cinemax
+http://45.5.118.152:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="General",Space
+http://45.171.64.30:6060/play/a04n/index.m3u8
+#EXTINF:-1 group-title="General",Star Channel
+http://45.5.118.152:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="General",HBO
+http://45.5.118.152:8000/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="General",HBO 2
+http://181.119.185.32:8000/play/a01c/index.m3u8?hls
+#EXTINF:-1 group-title="General",HBO Family
+http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
+#EXTINF:-1 group-title="General",HBO Xtreme
+http://138.59.227.20:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="General",HBO Pop
+http://181.224.255.210:8001/play/a0on/index.m3u8?hls
+#EXTINF:-1 group-title="General",Warner Bros
+http://181.224.200.5:2277/play/a01g/index.m3u8
+#EXTINF:-1 group-title="General",Paramount
+http://181.224.200.5:2277/play/a0df/index.m3u8
+#EXTINF:-1 group-title="General",FX
+http://181.224.200.5:2277/play/a011/index.m3u8
+#EXTINF:-1 group-title="General",TNT
+http://181.119.185.32:8000/play/a017/index.m3u8?hls
+#EXTINF:-1 group-title="General",TNT Series
+http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 group-title="General",Sony
+http://181.224.200.5:2277/play/a01f/index.m3u8
+#EXTINF:-1 group-title="General",Sony Movies
+http://45.5.118.152:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="General",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="General",AMC
+http://181.119.185.32:8000/play/a00j/index.m3u8?hls
+#EXTINF:-1 group-title="General",AMC Series
+http://138.59.227.20:8000/play/a073/index.m3u8
+#EXTINF:-1 group-title="General",AXN
+http://45.5.118.152:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="General",A&E
+http://181.224.200.5:2277/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="Maxcine.us@HD" tvg-logo="https://gia.tv/streams/pptv/208138.png" group-title="General",Maxcine
+https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineFamily.us@HD" tvg-logo="https://gia.tv/streams/pptv/208817.png" group-title="General",Maxcine Family
+https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="General",Runtime
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:-1 tvg-id="UniversalCinema.us@SD" tvg-logo="https://i.imgur.com/XxfET68.png" group-title="General",Universal Cinema
+http://45.167.1.138:8000/play/a06m
+#EXTINF:-1 group-title="General",Universal Studio
+http://181.224.200.5:2277/play/a01j/index.m3u8
+#EXTINF:-1 group-title="General",Universal Channel
+http://181.224.200.5:2277/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="General",Universal Comedy
+http://45.5.118.152:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="General",Universal Premiere
+http://45.5.118.152:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="General",Universal Crime
+http://45.5.118.152:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="General",DSports
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="General",Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="General",Fox Sports 2
+http://138.59.227.20:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="General",ESPN
+http://181.119.185.32:8000/play/a004/index.m3u8?hls
+#EXTINF:-1 group-title="General",ESPN2
+http://181.119.185.32:8000/play/a01w/index.m3u8?hls
+#EXTINF:-1 group-title="General",ESPN Premium
+http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="General",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="General",Imagen TV (1080p)
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
