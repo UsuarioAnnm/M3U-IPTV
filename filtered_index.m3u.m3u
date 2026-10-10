@@ -1,29 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7 (1080p)
-http://187.245.231.226:8000/play/a0uz/index.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (1080p)
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
 http://38.44.109.41:8003/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="Bandamax.mx@SD" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="Music",Bandamax (1080p)
-http://181.78.106.127:5000/play/ca064/index.m3u8
-#EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" group-title="Kids",Bob Esponja Pantalones Cuadrados (720p)
-https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="General",Canal 5 (Mexico) XET-TDT (1080p)
-http://45.5.118.152:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Center (1080p)
-http://181.78.8.199:8000/play/a0dn/index.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Comedy",Distrito Comedia (1080p)
-http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DSports (1080p)
-http://38.187.7.252:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Kids",El Chavo TV (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Undefined",Golden Plus (1080p)
-http://45.5.118.152:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Family",HBO Family Latin America (1080p)
-http://45.171.64.30:6060/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="Historia.es@SD" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entertainment",Historia (1080p)
-https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas (1080p)
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7 (1080p)
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="Space.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Undefined",Space (1080p)
-http://45.171.64.30:6060/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="General",Canal 5
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="General",Distrito Comedia
+http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="General",El Chavo
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="General",DSports
+#EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DSports (1080p)
+#EXTINF:-1 tvg-id="LosSimpson@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_logo_simpsons_yellow.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",Los Simpson
+http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8
