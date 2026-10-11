@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://logos.fandom.com/es/wiki/Azteca_Uno?so=search&file=Logo_Azteca_Uno_2023.png" group-title="General",Azteca Uno
+#EXTINF:-1 group-title="General",Azteca Uno
 http://38.44.109.41:8003/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7
+#EXTINF:-1 group-title="General",Azteca 7
 http://187.245.231.226:8000/play/a0uz/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas
+#EXTINF:-1 group-title="General",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="General",Canal 5
+#EXTINF:-1 group-title="General",Canal 5
 http://45.5.118.152:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="General",Distrito Comedia
+#EXTINF:-1 group-title="General",Distrito Comedia
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="General",El Chavo
+#EXTINF:-1 group-title="General",El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 group-title="General",National Geographic
 http://181.224.200.5:2277/play/a012/index.m3u8
 #EXTINF:-1 group-title="General",History Channel
 http://181.224.200.5:2277/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="General",Disney Channel
+#EXTINF:-1 group-title="General",Disney Channel
 http://181.78.8.199:8000/play/a0dn/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@North" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="General",Nickelodeon
+#EXTINF:-1 group-title="General",Nickelodeon
 http://181.224.200.5:2277/play/a0bm/index.m3u8
-#EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" group-title="General",Bob Esponja
+#EXTINF:-1 group-title="General",Bob Esponja
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 group-title="General",Golden
 http://181.224.200.5:2277/play/a0do/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="General",Golden Edge
+#EXTINF:-1 group-title="General",Golden Edge
 http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@HD" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="General",Cinemax
+#EXTINF:-1 group-title="General",Cinemax
 http://38.65.175.84:8000/play/a093/index.m3u8
-#EXTINF:-1 tvg-id="StarChannel.co@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="General",Star Channel
+#EXTINF:-1 group-title="General",Star Channel
 http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="General",Warner Bros
 http://181.224.200.5:2277/play/a01g/index.m3u8
@@ -37,5 +37,5 @@ http://181.224.200.5:2277/play/a011/index.m3u8
 http://181.119.185.32:8000/play/a017/index.m3u8?hls
 #EXTINF:-1 group-title="General",AMC
 http://181.119.185.32:8000/play/a00j/index.m3u8?hls
-#EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="General",DSports
+#EXTINF:-1 group-title="General",DSports
 http://38.187.7.252:8000/play/a03d/index.m3u8
