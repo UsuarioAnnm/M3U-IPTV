@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="General",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="General",Canal 5
+http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1,Distrito Comedia
 http://tv.supercabletv.com:25461/live/55874103/55874103/32.m3u8
 #EXTINF:-1 group-title="General",El Chavo
@@ -9,3 +11,31 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208870/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,El Chavo Animado
 https://hls.chiletvapp.com/elchavo/stream.m3u8
+#EXTINF:-1 group-title="General",Bob Esponja
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 group-title="General",Disney Channel
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="General",Nickelodeon
+http://181.224.200.5:2277/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="General",Cartoon Network
+http://138.59.227.20:8000/play/a083/index.m3u
+#EXTINF:-1 group-title="General",Bob Esponja
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 group-title="General",Golden
+http://181.224.200.5:2277/play/a0do/index.m3u8
+#EXTINF:-1 group-title="General",Golden Edge
+http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
+#EXTINF:-1 group-title="General",Cinemax
+http://38.65.175.84:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="General",Star Channel
+http://190.61.47.54:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="General",Warner Bros
+http://181.224.200.5:2277/play/a01g/index.m3u8
+#EXTINF:-1 group-title="General",FX
+http://181.224.200.5:2277/play/a011/index.m3u8
+#EXTINF:-1 group-title="General",AMC
+http://181.119.185.32:8000/play/a00j/index.m3u8?hls
+#EXTINF:-1 group-title="General",National Geographic
+http://181.224.200.5:2277/play/a012/index.m3u8
+#EXTINF:-1 group-title="General",History Channel
+http://181.224.200.5:2277/play/a02b/index.m3u8
